@@ -1,0 +1,49 @@
+body{
+background-color: maroon;
+}
+#Login{
+background-color: white;
+border: 2px solid black;
+width: 50%;
+height: 65%;
+margin-top: 15%;
+margin-left: 25%;
+color: maroon;
+display: flex;
+}
+#Password{
+    border: 2px inset salmon;
+    width: 75%;
+    height: 35px;
+    border-radius: 5px;
+}
+#Username{
+    border: 2px inset salmon;
+    width: 75%;
+    height: 35px;
+    border-radius: 5px;
+}
+#Submit{
+    text-align: center;
+    background-color: maroon;
+    color: white;
+    margin-left: 15%;
+    margin-top: 5%;
+    font-size: 50%;
+    width: 35%;
+    height: 35px;
+    border-radius: 5px;
+}
+#USPass{
+    text-align: left;
+    margin-top: 80px;
+    padding: 35px;
+    font-size: 30px;
+    width: 400px;
+}
+#text{
+    padding-left:3%;
+    padding-top: 12%;
+    font-size: 250%;
+
+}

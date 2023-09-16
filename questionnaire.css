@@ -1,0 +1,102 @@
+body{
+    background-color: aliceblue;
+    margin: 0;
+}
+#sidebar{
+     padding: 0;
+     width: 15%;
+     background-color: white;
+     height: 100%;
+     overflow: auto;
+     position: fixed;
+}
+#sidebar a{
+    text-decoration: none;
+    color: maroon;
+    display: block;
+    padding: 16px;
+    font-size: 150%;
+}
+
+#sidebar a:hover{
+    background-color: maroon;
+    color: white;
+}
+#date{
+    display: inline;
+    padding: 12px;
+}
+#from
+{
+    background-color: white;
+    width: 10%;
+    height: 7%;
+    border-radius: 5px;
+    margin-left: 70%;
+}
+#till
+{
+    background-color: white;
+    width: 10%;
+    height: 7%;
+    border-radius: 5px;
+}
+#dbutton{
+    color: maroon;
+    background-color: white;
+    width: 5%;
+    height: 10%;
+    border-radius: 5px;
+}
+
+#dbutton:hover{
+    background-color: maroon;
+    color: white;
+    
+}
+#add{
+    margin-left:18%;
+    margin-top: 5%;
+    background-color: white;
+    color: maroon;
+    width: 5%;
+    height: 10%;
+    border-radius: 5px;
+}
+
+#add:hover{
+    background-color: maroon;
+    color: white;
+
+}
+#Questionnaire{
+
+    background-color: white;
+    color: maroon;
+    margin-left: 18%;
+    width: 68%;
+    border-radius: 15px;
+    padding-top: 5px;
+    display: flex;
+    padding-left: 10%;
+    margin-bottom: 1%;
+}
+
+#dateinques{
+      
+    padding-left: 16%;
+}
+#usercountinques{
+
+    padding-left: 16%;
+
+}
+#amountinques{
+    padding-left: 16%;
+}
+
+#Questionnaire:hover{
+    background-color: maroon;
+    color: white;
+}
+
